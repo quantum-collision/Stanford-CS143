@@ -9,3 +9,5 @@ The second commit is derived from the first commit of this repository, which con
 The major materials for the programming assignments are in directory [assignments](./assignments/). Some notes in PDF formats are in directory [handouts](./handouts/). Other directories are best left untroubled.
 
 This repository is currently in development, and the solutions may not be complete or correct. Even if it is complete, you must not dishonest yourself with this repository.
+
+Website Link: http://web.stanford.edu/class/cs143/
